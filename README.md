@@ -15,6 +15,7 @@
 
 
 ---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ColinHarker&count_private=true&show_icons=true&hide=issues" /> </p>
 <p align="center"> [![My github stats](https://github-readme-stats.vercel.app/api?username=ColinHarker&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) </p>
 </br>
 <p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinHarker&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </p>
