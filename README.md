@@ -4,14 +4,15 @@
 ## ⚡ Technologies
 
 <p align="center>
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java" />
+<img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu" />
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
+
 </p>
 
 ---
