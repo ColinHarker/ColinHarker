@@ -2,16 +2,17 @@
 <div align="center">
   <br>
   <h1>Colin Harker</h1>
-  <sub>  
-  <h3>Hello! I am currently pursuing a bachelor's in computer science at <a href="[Temple University](https://www.temple.edu/)">Temple University</a>!
-  </h3>
-  </sub>
+  <sub>
+  Hello! I am currently pursuing a bachelor's in computer science at <a href="[Temple University](https://www.temple.edu/)">Temple University</a>!
+	</sub>
 </div>
 
 </br>
 
 <p align="center">
+<a href = "<https://www.linkedin.com/in/colin-harker/>">
 <img src="https://img.shields.io/badge/-ColinHarker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/colin-harker/" />
+</a>
 </p>
 
 </br>
