@@ -1,9 +1,12 @@
 ## Hello! My name is Colin Harker and I am currently pursuing a bachelor's in computer science at [Temple University](https://www.temple.edu/)!
-[![Linkedin Badge](https://img.shields.io/badge/-ColinHarker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/colin-harker//)](https://www.linkedin.com/in/colin-harker/)
+
+<p align="center">
+<img src="https://img.shields.io/badge/-ColinHarker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/colin-harker/" />
+</p>
 
 ## ⚡ Technologies
 
-<p align="center>
+<p align="center">
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
 <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c" />
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
@@ -12,7 +15,6 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
-
 </p>
 
 ---
