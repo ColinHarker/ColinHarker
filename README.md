@@ -7,14 +7,6 @@
 
 </br>
 
-<p align="center">
-<a href = "<https://www.linkedin.com/in/colin-harker/>">
-<img src="https://img.shields.io/badge/-ColinHarker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/colin-harker/" />
-</a>
-</p>
-
-</br>
-
 <div align="center">
 <h2>⚡ Technologies</h2>
 </div>
