@@ -2,7 +2,7 @@
 <div align="center">
   <br>
   <h1>Colin Harker</h1>
- Hello! I am currently pursuing a bachelor's in computer science at <a href="https://www.temple.edu/">Temple University</a>!
+ Hello! I am currently pursuing a Software Engineer in the Bay Area!
 </div>
 
 </br>
