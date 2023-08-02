@@ -2,7 +2,7 @@
 <div align="center">
   <br>
   <h1>Colin Harker</h1>
- Hello! I am currently pursuing a Software Engineer in the Bay Area!
+ Hello! I am currently a Software Engineer in the Bay Area!
 </div>
 
 </br>
